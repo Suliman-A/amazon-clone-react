@@ -1,0 +1,13 @@
+.chekout {
+  display: flex;
+  background-color: white;
+  padding: 20px;
+}
+.checkout__left {
+  width: 50%;
+  background-color: yellow;
+}
+.checkout__right {
+  width: 50%;
+  background-color: rgb(129, 186, 196);
+}
