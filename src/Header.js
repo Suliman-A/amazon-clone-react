@@ -33,7 +33,7 @@ export default function Header() {
                     <Link to='/checkout'>
                     <div className="header__opionBasket">
                         <ShoppingBasket />
-                        <span className="optionLineTwo header__basketCount">{ basket.length }</span>
+                        <span className="optionLineTwo header__basketCount">{ basket?.length }</span>
                     </div>
                     </Link>
                 </div>
