@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <div className="home">
             <div className="home__container">
-                <img className="home__image" src='https://images.unsplash.com/photo-1554026321-fe2a83b9e292?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzR8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80' alt="home"></img>
+                <img className="home__image" src='https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/11/Young-woman-shopping-in-a-vintage-clothing-store-1296x728-header-1296x728.jpg?w=1155&h=1528' alt="home"></img>
 
             <div className="home__row">        
                 <Product
